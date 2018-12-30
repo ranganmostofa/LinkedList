@@ -1,0 +1,2 @@
+class DoublyLinkedNode:
+    pass
